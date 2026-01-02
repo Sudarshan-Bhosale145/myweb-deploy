@@ -100,6 +100,7 @@ This project helped me understand **how Jenkins executes CI/CD pipelines and pro
 
 
 🖥️ Infrastructure
+
 1️⃣ Jenkins Server
 
 Ubuntu EC2
