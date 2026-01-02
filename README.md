@@ -1,4 +1,4 @@
-# 🚀 Jenkins-Static-Website-CICD
+# 🚀 Jenkins-Static-Website Deployment-CICD
 
 > **Author:** Sudarshan Bhosale  
 > **Role:** Cloud & DevOps Engineer (Fresher – Hands-on Project)  
